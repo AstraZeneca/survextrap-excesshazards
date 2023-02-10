@@ -12,7 +12,7 @@ Analyses were performed using R 4.1.0 and Stata/MP 17.0.
 
 The project requires the following R packages. The version numbers indicate the version of the packages 
 that were used in the analysis. 
-
+```
   ggpubr==0.4.0
   gridExtra==2.3
   condSURV==2.0.2
@@ -22,6 +22,7 @@ that were used in the analysis.
   flexsurvcure==1.2.0 
   flexsurv==2.2
   survival==3.2-13 
+```
 
 Folder Contents
 ----------------
@@ -36,6 +37,9 @@ This folder contains the data files that was used in the analysis. The file desc
 |
 |---- stata:  This folder contains the Stata script.
 |------- stata/gbsg_extrapolations_examplecode.do : The demonstration Stata do file for fitting parametric survival models and obtaining predictions
+|---- ado: This folder contains additional ado files for use with the Stata script
+|------- stexpect.ado : Calculates expected survival for a cohort of individuals using age at diagnosis, calendar year, 
+sex and other matching variables in the popmort file
 ```
 
 Contact

@@ -3,8 +3,8 @@ Survival Extrapolation Incorporating General Population Mortality Using Excess
 Hazard and Cure Models: a Tutorial
 
 Full Authors List
-Michael J Sweeting, Mark J Rutherford, Dan Jackson, Nicholas R Latimer,
-Robert Hettle, Paul C Lambert
+Michael J Sweeting, Mark J Rutherford, Dan Jackson, Sangyu Lee,
+Nicholas R Latimer, Robert Hettle, Paul C Lambert
 
 Code Authors
 Michael Sweeting, Mark Rutherford
